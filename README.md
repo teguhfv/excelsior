@@ -1,24 +1,21 @@
 # README
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+## excelsior
+### A phrase often shouted after succesfully completing a mission.
+#### is todo list app, set your goal and shouting "Excelsior" when you make it !!
 
-Things you may want to cover:
 
-* Ruby version
+
+
+
+* Ruby version 
+	5.2.1
 
 * System dependencies
+	listing
 
 * Configuration
+	n/a
 
 * Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+	mysql
